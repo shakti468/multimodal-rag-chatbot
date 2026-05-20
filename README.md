@@ -50,6 +50,9 @@ Run the development server:
 ```bash
 npm run dev
 ```
+## Screenshots
+<img width="555" height="482" alt="image" src="https://github.com/user-attachments/assets/fd238792-a8d3-47c8-9b37-13ec4dffa0c4" />
+
 
 Open:
 
@@ -60,6 +63,9 @@ http://localhost:3000
 <img width="1368" height="924" alt="Screenshot 2026-05-20 170532" src="https://github.com/user-attachments/assets/3d5fdc97-098c-4a48-8f0d-0a964c0dafde" />
 
 ------
+## Screenshot 
+<img width="1817" height="997" alt="Screenshot 2026-05-20 170520" src="https://github.com/user-attachments/assets/f7487fb6-20c8-4852-9dfe-2155f9b4e1ce" />
+
 
 
 ## Deployment
