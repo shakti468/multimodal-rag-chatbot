@@ -56,6 +56,11 @@ Open:
 ```txt
 http://localhost:3000
 ```
+## Screenshots
+<img width="1368" height="924" alt="Screenshot 2026-05-20 170532" src="https://github.com/user-attachments/assets/3d5fdc97-098c-4a48-8f0d-0a964c0dafde" />
+
+------
+
 
 ## Deployment
 
